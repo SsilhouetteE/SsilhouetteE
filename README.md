@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+ 
 # 👋 Hi, I’m SsilhouetteE (CHEN WENTAO) !
 
 Welcome to my GitHub profile. I’m currently a Master’s student in Economics at Osaka University, with a strong interest in macroeconomic modeling, econometrics, and applied machine learning.
