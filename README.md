@@ -30,13 +30,13 @@ Welcome to my GitHub profile. I’m currently a Master’s student in Economics 
 
 ## 📫 Contact
 
-- Email: your.email@example.com  
+- Email: u299034j@ecs.osaka-u.ac.jp  
 - Personal Site: [SsilhouetteE.github.io](https://SsilhouetteE.github.io/)  
-- Research Blog (coming soon)
+- Research Blog [(notion)](https://www.notion.so/1e0f0af6797f80d9bd9bc8617fbccf94?v=1e0f0af6797f80e995e6000cac7e52bf&pvs=4)
 
 ---
 
-> *"Patience, precision, and passion — that's how I approach economic modeling and data."*
+> *"时不我待"*
 
 Thanks for visiting! Feel free to explore my repositories or connect with me.
 
