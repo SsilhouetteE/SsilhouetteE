@@ -1,0 +1,18 @@
+---
+layout: page
+title: Glossary
+permalink: /glossary/
+---
+
+<h1>📘 术语库</h1>
+
+<ul>
+  {% assign entries = site.glossary | sort: 'title' %}
+  {% for item in entries %}
+    <li style="margin-bottom: 1.5em;">
+      <h3>{{ item.title }}</h3>
+      <div>{{ item.content | markdownify }}</div>
+      <p><em>Tags: {{ item.tags | join: ', ' }}</em></p>
+    </li>
+  {% endfor %}
+</ul>
