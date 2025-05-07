@@ -3,7 +3,7 @@ title: "OLS"
 tags: [Econometrics, Statistics]
 ---
 
-**最小二乘估计（Ordinary Least Squares）** 是回归分析中用于估计参数的经典方法，其目标是最小化残差平方和。
+最小二乘估计（Ordinary Least Squares） 是回归分析中用于估计参数的经典方法，其目标是最小化残差平方和。
 
 其数学表达式为：
 
